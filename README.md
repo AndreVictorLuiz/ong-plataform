@@ -17,6 +17,7 @@ Plataforma web desenvolvida para conectar ONGs, voluntários e doadores, facilit
 
 ## 📁 Estrutura do Projeto
 ong-platform/
+
 ├── index.html # Página inicial
 
 ├── projetos.html # Catálogo de projetos
