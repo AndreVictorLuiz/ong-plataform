@@ -17,14 +17,14 @@ Plataforma web desenvolvida para conectar ONGs, voluntários e doadores, facilit
 
 ## 📁 Estrutura do Projeto
 📁/ong-connect/ <br>
-├── 📄 index.html <br>
-├── 📄 projetos.html <br>
-├── 📄 cadastro.html <br>
+├── 📄 index.html # Página inicial com sobre e contato <br>
+├── 📄 projetos.html # Projetos sociais e doações <br>
+├── 📄 cadastro.html # Formulário de cadastro completo <br>
 ├── 📁 assets/ <br>
 │   ├── 📁 css/ <br>
 │   │   └── 🎨 style.css <br>
 │   ├── 📁 js/ <br>
-│   │   └── ⚡ scripts.js (com máscaras) <br>
+│   │   └── ⚡ scripts.js  # Máscaras e interatividade
 │   └── 📁 images/ <br>
 │       ├── 🖼️ hero-banner.jpg <br>
 │       ├── 🖼️ projeto-1.jpg <br>
