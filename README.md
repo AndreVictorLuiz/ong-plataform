@@ -16,20 +16,20 @@ Plataforma web desenvolvida para conectar ONGs, voluntários e doadores, facilit
 - Git e GitHub
 
 ## 📁 Estrutura do Projeto
-📁/ong-connect/
-├── 📄 index.html
-├── 📄 projetos.html
-├── 📄 cadastro.html
-├── 📁 assets/
-│   ├── 📁 css/
-│   │   └── 🎨 style.css
-│   ├── 📁 js/
-│   │   └── ⚡ scripts.js (com máscaras)
-│   └── 📁 images/
-│       ├── 🖼️ hero-banner.jpg
-│       ├── 🖼️ projeto-1.jpg
-│       ├── 🖼️ projeto-2.jpg
-│       └── 🖼️ (outras imagens otimizadas)
+📁/ong-connect/ <br>
+├── 📄 index.html <br>
+├── 📄 projetos.html <br>
+├── 📄 cadastro.html <br>
+├── 📁 assets/ <br>
+│   ├── 📁 css/ <br>
+│   │   └── 🎨 style.css <br>
+│   ├── 📁 js/ <br>
+│   │   └── ⚡ scripts.js (com máscaras) <br>
+│   └── 📁 images/ <br>
+│       ├── 🖼️ hero-banner.jpg <br>
+│       ├── 🖼️ projeto-1.jpg <br>
+│       ├── 🖼️ projeto-2.jpg <br>
+│       └── 🖼️ (outras imagens otimizadas) <br>
 
 ## 👨‍💻 Desenvolvedor
 **André Victor Luiz dos Santos Souza**  
