@@ -1,28 +1,47 @@
-# ONG+ Connect - Plataforma Solidária
+# 🎯 ONG+ Connect - Plataforma Solidária
 
-## 📋 Descrição do Projeto
-Plataforma web desenvolvida para conectar ONGs, voluntários e doadores, facilitando o engajamento social e a transformação de realidades.
+## 📋 Descrição
+Plataforma web desenvolvida para conectar voluntários, doadores e organizações do terceiro setor.
 
-## 🚀 Funcionalidades
-- **Página Institucional** - Apresentação da organização
-- **Catálogo de Projetos** - Descrição de iniciativas sociais
-- **Sistema de Cadastro** - Formulário complexo com validação
-- **Design Responsivo** - Compatível com todos os dispositivos
+## 🎯 Objetivo
+Trabalho acadêmico - **Entrega II: Estilização e Leiautes**  
+Disciplina: Fundamentos Web
 
-## 🛠 Tecnologias Utilizadas
-- HTML5 Semântico
-- CSS3 Avançado
-- JavaScript ES6+
-- Git e GitHub
+## 🚀 Tecnologias Utilizadas
+- **HTML5 Semântico**
+- **CSS3 Avançado** (Grid, Flexbox, Variáveis CSS)
+- **JavaScript** (Interatividade e máscaras)
+- **Design System** próprio
+- **Responsive Design**
 
-## 📁 Estrutura do Projeto
+## ✨ Funcionalidades Implementadas
+
+### ✅ Entrega I - Fundamentos
+- [x] 3 páginas HTML5 semânticas
+- [x] Formulário com validação nativa
+- [x] Máscaras JavaScript (CPF, telefone, CEP)
+- [x] Estrutura organizada em pastas
+
+### ✅ Entrega II - Estilização
+- [x] **Sistema de Design** com variáveis CSS
+- [x] **Layout Responsivo** (5 breakpoints)
+- [x] **CSS Grid & Flexbox**
+- [x] **Navegação sofisticada** com menu hambúrguer
+- [x] **Componentes** (cards, botões, formulários)
+- [x] **Design System** completo
+
+## 📂 Estrutura do Projeto
 📁/ong-connect/ <br>
 ├── 📄 index.html # Página inicial com sobre e contato <br>
 ├── 📄 projetos.html # Projetos sociais e doações <br>
 ├── 📄 cadastro.html # Formulário de cadastro completo <br>
 ├── 📁 assets/ <br>
 │   ├── 📁 css/ <br>
-│   │   └── 🎨 style.css <br>
+│   │   ├── 🎨 style.css <br>
+│   │   ├── 🎨 variables.css <br>
+│   │   ├── 🎨 layout.css <br>
+│   │   ├── 🎨 components.css <br>
+│   │   └── 🎨 responsive.css <br>
 │   ├── 📁 js/ <br>
 │   │   └── ⚡ scripts.js  # Máscaras e interatividade
 │   └── 📁 images/ <br>
@@ -31,9 +50,16 @@ Plataforma web desenvolvida para conectar ONGs, voluntários e doadores, facilit
 │       ├── 🖼️ projeto-2.jpg <br>
 │       └── 🖼️ (outras imagens otimizadas) <br>
 
-## 👨‍💻 Desenvolvedor
-**André Victor Luiz dos Santos Souza**  
-Disciplina: Desenvolvimento Front-End
 
-## 📄 Licença
-Este projeto é para fins acadêmicos.
+## 🎨 Sistema de Design
+- **Cores:** 12 cores na paleta
+- **Tipografia:** 8 tamanhos hierárquicos
+- **Espaçamento:** Sistema modular (8px base)
+- **Breakpoints:** 5 pontos responsivos
+
+## 👨‍💻 Desenvolvido por
+André Victor Luiz
+
+---
+
+*Projeto acadêmico - Todos os direitos reservados*
