@@ -1,0 +1,37 @@
+/* Tema Alto Contraste */
+[data-theme="high-contrast"] {
+    --bg-primary: #000000;
+    --text-primary: #FFFFFF;
+    --primary-600: #FFFF00;
+}
+
+/* Tema Escuro */
+[data-theme="dark"] {
+    --bg-primary: #1a202c;
+    --text-primary: #f7fafc;
+    --primary-600: #63b3ed;
+}
+
+.theme-selector {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.theme-buttons {
+    display: flex;
+    gap: 8px;
+}
+
+.theme-btn {
+    padding: 8px 12px;
+    border: 2px solid #ccc;
+    background: white;
+    cursor: pointer;
+    border-radius: 4px;
+}
