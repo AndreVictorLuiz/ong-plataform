@@ -1,0 +1,9 @@
+{
+  "name": "ong-connect",
+  "version": "1.0.0",
+  "description": "Plataforma para conectar ONGs, voluntários e doadores",
+  "scripts": {
+    "build": "echo 'Build system would be implemented here'",
+    "serve": "echo 'Use: python -m http.server 8000'"
+  }
+}
