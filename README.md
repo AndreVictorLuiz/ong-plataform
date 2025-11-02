@@ -237,6 +237,32 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
+## ♿ Recursos de Acessibilidade
+
+### Navegação
+- **Skip Link** - Pular para conteúdo principal
+- **Navegação por Teclado** - Focus visível em todos os elementos
+- **Contraste** - Cores com boa visibilidade
+
+### Temas Acessíveis
+- **Tema Claro** (padrão)
+- **Tema Escuro** 
+- **Alto Contraste** - Para usuários com baixa visão
+
+## 🔧 Versionamento
+
+### Branches Utilizadas
+- `main` - Versão estável principal
+- `develop` - Desenvolvimento
+- `feature/acessibilidade` - Recursos de acessibilidade
+- `feature/temas-acessiveis` - Sistema de temas
+- `feature/otimizacao` - Configurações de build
+
+### Estratégia
+1. Desenvolvimento nas branches `feature/*`
+2. Teste e integração na `develop`
+3. Versões estáveis na `main`
+
 ## 🔄 Histórico de Versões
 | Versão | Data | Descrição |
 |--------|------|-----------|
